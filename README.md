@@ -4,6 +4,6 @@
 - Generate charts and visualizations to highlight key insights from the car inventory.
 - Copy the summarized data and charts into a Microsoft Word report, providing a narrative on the analysis, insights, and any recommendations making it accessible to stakeholders.
  
-Thank you for exploring the Car Inventory Analysis project!
-
+Thank you for exploring the Car Inventory Analysis project
+ 
  
